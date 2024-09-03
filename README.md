@@ -36,6 +36,7 @@ Theater projects were at a significantly higher rate than all the other crowdfun
 
 * Crowdsourced projects consistently succeed at a higher rate than they fail within this data set. 
 
+<br>
 
 <img src="Pics/Goal Analysis.png" width="1244" height="717">
 
