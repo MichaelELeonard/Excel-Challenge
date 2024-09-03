@@ -66,6 +66,24 @@ Initial analysis of the data shows three potential conclusions regarding crowdfu
 
 
 
+
+## Potential limitations of this dataset
+As with all data analysis, this data set may have potential limitations that should be considered when attempting to provide data analysis:
+
+* What types of bias were incorporated within our data, and how might it skew the data analysis?
+* How might the limited sample size affect the preliminary results?
+* Does this dataset include outliers that may skew the statistical analysis?
+
+
+
+
+
+
+
+
+
+
+
 ## Future Tables/Graphs that may provide additional insight
 
 
@@ -73,7 +91,7 @@ As this is just a preliminary report examining trends that can lead to successfu
 
 * Analysis of a much larger data sample may provide a much more in-depth understanding of successful crowdsourcing campaigns.
 
-* By expanding the data sample of crowdsourcing campaigns and comparing it with the historical boom & bust cycles within the larger economy, a more in-depth understanding can be obtained regarding the role that economic cycles play in the success or failure of crowd funding campaigns.
+* By expanding the data sample of crowdsourcing campaigns and comparing it with the historical boom & bust cycles within the larger economy, a more in-depth understanding can be obtained regarding the role that economic cycles play in the success or failure of crowdsourcing campaigns.
 
 * Including a regional economic analysis within our data set could further examine how regional economic trends may affect the success and failure rates of crowdsourcing campaigns on a local level. 
 
