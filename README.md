@@ -53,6 +53,9 @@ Initial preliminary analysis of the data shows three potential conclusions regar
 
 <br>
 
+
+## Statistical Analysis breakdown
+
 <img src="Pics/Statistical Analysis A.png" width="486" height="340">
 
 
@@ -64,7 +67,7 @@ Initial preliminary analysis of the data shows three potential conclusions regar
 
 
 
-## Future Tables/Graphs that may provide additional insight.
+## Future Tables/Graphs that may provide additional insight
 
 
 As this is just a preliminary report examining trends that can lead to successful crowdsourcing campaigns, future tables and graphs will need to be established to provide deeper analysis into the variables that can influence successful campaigns. Future table/graphs that could be considered and the insights they might provide include:   
