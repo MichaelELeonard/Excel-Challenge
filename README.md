@@ -27,12 +27,14 @@ DATA ANAYLSIS INC. has started a small batch data analysis of 1000 crowdfunding 
 
 
 
-Initial AnalysisInitial preliminary analysis of the data shows three potential conclusions regarding crowdfunding campaigns:
+##Initial Analysis
 
-Initial preliminary analysis shows that creative endeavors that directly engage with their audience are frequently crowdfunded funded at higher levels, leading to an increase in successful outcomes. Examples of these endeavors include Film & Video, Music, and Theater projects.
+* Initial preliminary analysis of the data shows three potential conclusions regarding crowdfunding campaigns:
+
+* Initial preliminary analysis shows that creative endeavors that directly engage with their audience are frequently crowdfunded funded at higher levels, leading to an increase in successful outcomes. Examples of these endeavors include Film & Video, Music, and Theater projects.
 Theater projects were at a significantly higher rate than all the other crowdfunded opportunities examined in this data set. As theater, film & video, music projects historically have people gather to positively experience the product as a group, those patrons may be more inclined to support future crowdsourcing endeavors. 
 
-Crowdsourced projects consistently succeed at a higher rate than they fail within this data set. 
+* Crowdsourced projects consistently succeed at a higher rate than they fail within this data set. 
 
 
 <img src="Pics/Goal Analysis.png" width="1244" height="717">
@@ -54,11 +56,11 @@ Crowdsourced projects consistently succeed at a higher rate than they fail withi
 
 As this is just a preliminary report examining trends that can lead to successful crowdsourcing campaigns, future tables and graphs will need to be established to provide deeper analysis into the variables that can influence successful campaigns. Future table/graphs that could be considered and the insights they might provide include:   
 
-Analysis of a much larger data sample may provide a much more in-depth understanding of successful crowdsourcing campaigns.
+* Analysis of a much larger data sample may provide a much more in-depth understanding of successful crowdsourcing campaigns.
 
-By expanding the data sample of crowdsourcing campaigns and correlating it with the historical boom & bust cycles within the larger economy, a more in-depth understanding regarding the role the larger economy plays in relation to successful crowd funding campaigns.
+* By expanding the data sample of crowdsourcing campaigns and correlating it with the historical boom & bust cycles within the larger economy, a more in-depth understanding regarding the role the larger economy plays in relation to successful crowd funding campaigns.
 
-Including a regional economic analysis within our data set could further examine how regional economic trends may affect the success and failure rates of crowdsourcing campaigns on a local level. 
+* Including a regional economic analysis within our data set could further examine how regional economic trends may affect the success and failure rates of crowdsourcing campaigns on a local level. 
 
 
 
