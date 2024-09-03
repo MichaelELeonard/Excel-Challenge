@@ -43,7 +43,7 @@ DATA ANAYLSIS INC. has started a small batch data analysis of 1000 crowdfunding 
 
 ## Initial Analysis
 
-Initial preliminary analysis of the data shows three potential conclusions regarding crowdfunding campaigns:
+Initial analysis of the data shows three potential conclusions regarding crowdfunding campaigns:
 
 * Initial preliminary analysis shows that creative endeavors that directly engage with their audience are frequently crowdfunded funded at higher levels, leading to an increase in successful outcomes. Examples of these endeavors include Film & Video, Music, and Theater projects.
 
