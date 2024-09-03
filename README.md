@@ -65,7 +65,7 @@ Initial analysis of the data shows three potential conclusions regarding crowdfu
 
 
 
-
+<br>
 
 ## Potential limitations of this dataset
 As with all data analysis, this data set may have potential limitations that should be considered when attempting to provide data analysis:
