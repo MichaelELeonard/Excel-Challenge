@@ -2,7 +2,7 @@
 
 
 
-Background
+## Background
 
 Crowdfunding platforms like Kickstarter and Indiegogo have been growing in success and popularity since the late 2000s. From independent content creators to famous celebrities, more and more people are using crowdfunding to launch new products and generate buzz, but not every project has found success.
 To receive funding, the project must meet or exceed an initial goal, so many organizations dedicate considerable resources looking through old projects in an attempt to discover “the trick” to finding success. For this week's Challenge, you will organize and analyze a database of 1,000 sample projects to uncover any hidden trends.
@@ -10,7 +10,7 @@ To receive funding, the project must meet or exceed an initial goal, so many org
 
 
 
-Data Analysis of Crowdfunding
+## Data Analysis of Crowdfunding
 
 Initial Analysis
 Crowdfunding has transformed and expanded the financial opportunities that startup companies are able to utilize to fund the next big idea. As crowdfunding grows in importance and popularity, it is critical to examine data trends to establish patterns that organizations can utilize to increase their opportunity to successfully promote their product. 
@@ -49,7 +49,7 @@ Crowdsourced projects consistently succeed at a higher rate than they fail withi
 
 
 
-Future Table/Graphs that may provide additional insight.
+## Future Tables/Graphs that may provide additional insight.
 
 
 As this is just a preliminary report examining trends that can lead to successful crowdsourcing campaigns, future tables and graphs will need to be established to provide deeper analysis into the variables that can influence successful campaigns. Future table/graphs that could be considered and the insights they might provide include:   
