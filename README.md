@@ -58,6 +58,9 @@ Initial analysis of the data shows three potential conclusions regarding crowdfu
 <img src="Pics/Statistical Analysis.png" width="486" height="340">
 
 
+<br>
+
+
 ### Success/Fail percent rate based on Crowdfunding financial goal received
 
 <img src="Pics/Goal Analysis.png" width="1057" height="609">
