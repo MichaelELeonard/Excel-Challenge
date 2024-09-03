@@ -43,10 +43,11 @@ DATA ANAYLSIS INC. has started a small batch data analysis of 1000 crowdfunding 
 
 ## Initial Analysis
 
-* Initial preliminary analysis of the data shows three potential conclusions regarding crowdfunding campaigns:
+Initial preliminary analysis of the data shows three potential conclusions regarding crowdfunding campaigns:
 
 * Initial preliminary analysis shows that creative endeavors that directly engage with their audience are frequently crowdfunded funded at higher levels, leading to an increase in successful outcomes. Examples of these endeavors include Film & Video, Music, and Theater projects.
-Theater projects were at a significantly higher rate than all the other crowdfunded opportunities examined in this data set. As theater, film & video, music projects historically have people gather to positively experience the product as a group, those patrons may be more inclined to support future crowdsourcing endeavors. 
+
+* Theater projects were at a significantly higher rate than all the other crowdfunded opportunities examined in this data set. As theater, film & video, music projects historically have people gather to positively experience the product as a group, those patrons may be more inclined to support future crowdsourcing endeavors. 
 
 * Crowdsourced projects consistently succeed at a higher rate than they fail within this data set. 
 
