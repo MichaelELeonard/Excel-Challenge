@@ -27,7 +27,7 @@ DATA ANAYLSIS INC. has started a small batch data analysis of 1000 crowdfunding 
 
 
 
-##Initial Analysis
+## Initial Analysis
 
 * Initial preliminary analysis of the data shows three potential conclusions regarding crowdfunding campaigns:
 
@@ -38,8 +38,6 @@ Theater projects were at a significantly higher rate than all the other crowdfun
 
 
 <img src="Pics/Goal Analysis.png" width="1244" height="717">
-<img src="Pics/Statistical Analysis A.png" width="486" height="340">
-<img src="Pics/Statistical Analysis B.png" width="667" height="597">
 
 
 
