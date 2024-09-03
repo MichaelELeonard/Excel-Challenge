@@ -19,13 +19,13 @@ DATA ANAYLSIS INC. has started a small batch data analysis of 1000 crowdfunding 
 
 <br>
 
-### Pivot Table filtered by country
+### Pivot Table filtered by country of orgin
 
 <img src="Pics/Funding Areas.png" width="1137" height="457">
 
 <br>
 
-### Pivot Table of campaigns were successful, failed, or canceled, or are currently live
+### Pivot Table of campaigns results (successful, failed, or canceled, or are currently live)
 
 <img src="Pics/Success Rates.png" width="1214" height="538">
 
