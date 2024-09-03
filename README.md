@@ -17,6 +17,7 @@ Crowdfunding has transformed and expanded the financial opportunities that start
 
 DATA ANAYLSIS INC. has started a small batch data analysis of 1000 crowdfunding situations to examine trends that can be used to establish the next business success story. Initial analysis has provided to following data outlined below: 
 
+<br>
 
 ### Pivot Table filtered by country
 
