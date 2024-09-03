@@ -56,6 +56,8 @@ Initial preliminary analysis of the data shows three potential conclusions regar
 <img src="Pics/Statistical Analysis A.png" width="486" height="340">
 
 
+### Success/Fail percent rate based on Crowdfunding financial goal received
+
 <img src="Pics/Goal Analysis.png" width="1057" height="609">
 
 
