@@ -52,14 +52,10 @@ Theater projects were at a significantly higher rate than all the other crowdfun
 
 <br>
 
-<img src="Pics/Goal Analysis.png" width="1057" height="609">
-
 <img src="Pics/Statistical Analysis A.png" width="486" height="340">
 
 
-
-
-
+<img src="Pics/Goal Analysis.png" width="1057" height="609">
 
 
 
