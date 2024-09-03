@@ -18,9 +18,9 @@ Crowdfunding has transformed and expanded the financial opportunities that start
 DATA ANAYLSIS INC. has started a small batch data analysis of 1000 crowdfunding situations to examine trends that can be used to establish the next business success story. Initial analysis has provided to following data outlined below: 
 
 
-<img src="Pics/Funding Areas.png" width="1338" height="538">
-<img src="Pics/Success Rates.png" width="1429" height="633">
-<img src="Pics/Monthly Breakdown.png" width="1149" height="405">
+<img src="Pics/Funding Areas.png" width="1137" height="457">
+<img src="Pics/Success Rates.png" width="1214" height="538">
+<img src="Pics/Monthly Breakdown.png" width="976" height="344">
 
 
 
@@ -38,8 +38,9 @@ Theater projects were at a significantly higher rate than all the other crowdfun
 
 <br>
 
-<img src="Pics/Goal Analysis.png" width="1244" height="717">
+<img src="Pics/Goal Analysis.png" width="1057" height="609">
 
+<img src="Pics/Statistical Analysis A.png" width="486" height="340">
 
 
 
