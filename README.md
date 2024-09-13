@@ -5,7 +5,7 @@
 ## Background
 
 Crowdfunding platforms like Kickstarter and Indiegogo have been growing in success and popularity since the late 2000s. From independent content creators to famous celebrities, more people are using crowdfunding to launch new products and generate buzz, but not every project has found success.
-To receive funding, projects must meet or exceed an initial goal, so many organizations dedicate considerable resources examining past successful projects to discover “tricks” to finding success. For this challenge, we organized and analyzed a database of 1,000 sample projects to uncover any hidden trends of success.
+To receive funding, projects must meet or exceed an initial funding goal, so many organizations dedicate considerable resources to discover “tricks” from past success campaigns. For this challenge, we organized and analyzed a database of 1,000 sample projects to uncover any hidden trends of success.
 
 
 <br>
