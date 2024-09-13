@@ -88,9 +88,9 @@ As with all data analysis, this data set may have limitations to keep in mind wh
 
 As this is a preliminary report examining trends that may lead to successful crowdsourcing campaigns, future tables and graphs may need to establish a deeper analysis to identify variables that may influence successful campaigns. Future table/graphs to consider include:   
 
-* Analysis of a larger data sample may provide a much more in-depth understanding of successful crowdsourcing campaigns.
+* Analysis of a larger data sample may provide a more in-depth understanding of successful crowdsourcing campaigns.
 
-* Examining the data of successful crowdsourcing campaigns within the historical boom & bust cycles within the larger economy to understand the role that economic cycles play in the success or failure of crowdsourcing campaigns.
+* Examining the data of successful crowdsourcing campaigns within the historical boom & bust cycles within the larger economy may establish the role that economic cycles play in the success or failure of crowdsourcing campaigns.
 
 * Including a local/regional economic analysis within our data set could further examine how local/regional economic trends may affect the success and failure rates of crowdsourcing campaigns on a local level. 
 
