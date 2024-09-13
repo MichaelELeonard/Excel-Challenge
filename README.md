@@ -15,7 +15,7 @@ To receive funding, projects must meet or exceed an initial funding goal, so man
 
 Crowdfunding has transformed and expanded the financial opportunities startup companies are able to utilize to fund the next big idea. As crowdfunding grows in importance and popularity, it is critical to examine data trends to establish patterns that organizations can utilize to increase their opportunity to successfully promote their product. 
 
-DATA ANAYLSIS INC. has started a small batch data analysis of 1000 crowdfunding campaigns to look for common traits that can lead to the next business success story. Initial analysis has provided to following data outlined below: 
+DATA ANAYLSIS INC. has started a small batch data analysis of 1000 crowdfunding campaigns to look for common traits that can lead to the next business success story. Initial analysis has provided to following data: 
 
 <br>
 
