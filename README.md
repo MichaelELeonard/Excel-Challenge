@@ -49,7 +49,7 @@ Initial analysis of the data shows three potential conclusions regarding crowdfu
 
 * Theater projects were funded was significantly higher rates in this data set. As theater, film & video, music projects historically have people gather to experience the product collectively, these patrons may be more inclined to support future crowdsourcing endeavors. 
 
-* Crowdsourced projects consistently succeed at a higher rate than they fail within this data set. 
+* Crowdsourced projects consistently succeed at a higher rate than they fail within this limited data set. 
 
 <br>
 
