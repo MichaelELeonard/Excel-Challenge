@@ -47,7 +47,7 @@ Initial analysis of the data shows three potential conclusions regarding crowdfu
 
 * Endeavors that directly engage with their audience are frequently crowdfunded funded at higher levels, leading to an increase in successful outcomes. Examples of these endeavors include Film & Video, Music, and Theater projects.
 
-* Theater project funding was significantly higher rates in this data set. As theater, film & video, music projects historically have people gather to experience the product collectively, these patrons may be more inclined to support future crowdsourcing endeavors. 
+* Theater projects were funded was significantly higher rates in this data set. As theater, film & video, music projects historically have people gather to experience the product collectively, these patrons may be more inclined to support future crowdsourcing endeavors. 
 
 * Crowdsourced projects consistently succeed at a higher rate than they fail within this data set. 
 
