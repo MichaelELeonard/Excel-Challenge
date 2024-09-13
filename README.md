@@ -91,8 +91,3 @@ As this is a preliminary report examining trends that may lead to successful cro
 * Analysis of a larger data sample may provide a more in-depth understanding of successful crowdsourcing campaigns.
 
 * Examining the data of successful crowdsourcing campaigns within the historical boom & bust cycles of the larger economy may establish the role that economic cycles play in the success or failure of crowdsourcing campaigns.
-
-* Including a local/regional economic analysis within our data set could further examine how local/regional economic trends may affect the success and failure rates of crowdsourcing campaigns on a local level. 
-
-
-
