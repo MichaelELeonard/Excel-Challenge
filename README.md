@@ -19,7 +19,7 @@ DATA ANAYLSIS INC. has started a small batch data analysis of 1000 crowdfunding 
 
 <br>
 
-### Pivot Table filtered by country of orgin
+### Pivot Table filtered by country of origin
 
 <img src="Pics/Funding Areas.png" width="1137" height="457">
 
@@ -71,12 +71,12 @@ Initial analysis of the data shows three potential conclusions regarding crowdfu
 
 <br>
 
-## Potential limitations of this dataset
+## Potential limitations of this data set
 As with all data analysis, this data set may have limitations to keep in mind when conducting data analysis. Potential limitations may include:
 
 * Bias withing the data that may skew the data analysis?
 * How might the limited sample size affect the preliminary results?
-* Does this dataset include outliers that may skew the statistical analysis?
+* Does this data set include outliers that may skew the statistical analysis?
 
 
 <br>
