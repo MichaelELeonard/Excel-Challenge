@@ -87,8 +87,8 @@ Potential limitations of the data set may include:
 ## Future Tables/Graphs that may provide additional insight
 
 
-As this preliminary report examining trends may lead to successful crowdsourcing campaigns, additional tables and graphs may needed to establish a deeper analysis in the future. Future table/graphs to consider include:   
+As this is a preliminary report, additional tables and graphs may be needed to establish a deeper analysis in the future. Future table/graphs to consider include:   
 
-* Analysis of a larger data sample may provide a more in-depth understanding of successful crowdsourcing campaigns.
+* Analysis of a larger dataset may provide a more in-depth understanding of successful crowdsourcing campaigns.
 
 * Examining the data of successful crowdsourcing campaigns within the historical boom & bust cycles of the larger economy may establish the role that economic cycles play in the success or failure of crowdsourcing campaigns.
