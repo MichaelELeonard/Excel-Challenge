@@ -5,7 +5,7 @@
 ## Background
 
 Crowdfunding platforms like Kickstarter and Indiegogo have been growing in popularity and success since the late 2000s. From independent content creators to famous celebrities, more people are using crowdfunding to launch new products and generate buzz, but not every project has found success.
-To receive funding, projects must meet or exceed an initial funding goal, so many organizations dedicate considerable resources to discover “tricks” from past successful campaigns. 
+To receive funding, projects must meet or exceed an initial funding target goal, so many organizations dedicate considerable resources to discover “tricks” from past successful campaigns. 
 
 
 <br>
