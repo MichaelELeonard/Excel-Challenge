@@ -27,7 +27,7 @@ DATA ANAYLSIS INC. has started a small batch data analysis of 1000 crowdfunding 
 
 ### Pivot Table of campaign results (successful, failed, or canceled, or are currently live)
 
-<img src="Pics/Success Rates.png" width="1214" height="538">
+<img src="Pics/Success Rates.png" width="1092" height="484">
 
 <br>
 
