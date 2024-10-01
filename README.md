@@ -64,7 +64,7 @@ Initial analysis of the data shows three potential conclusions regarding crowdfu
 
 
 
-### Potential limitations of this data set
+## Potential limitations of this data set
 
 Potential limitations of the data set may include:
 
@@ -76,7 +76,7 @@ Potential limitations of the data set may include:
 
 
 
-### Future Tables/Graphs that may provide additional insight
+## Future Tables/Graphs that may provide additional insight
 
 
 As this is a preliminary report, additional tables and graphs may be needed to establish a deeper analysis in the future. Future table/graphs to consider include:   
