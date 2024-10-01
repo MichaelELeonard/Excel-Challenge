@@ -16,19 +16,19 @@ Crowdfunding has transformed and expanded the financial opportunities startup co
 DATA ANAYLSIS INC. has started a small batch data analysis of 1000 crowdfunding campaigns to look for common traits that can lead to the next business success story. Initial analysis has provided to following data: 
 
 
-### Pivot Table filtered by country of origin
+## Pivot Table filtered by country of origin
 
 <img src="Pics/Funding Areas.png" width="1137" height="457">
 
 
 
-### Pivot Table of campaign results (successful, failed, or canceled, or are currently live)
+## Pivot Table of campaign results (successful, failed, or canceled, or are currently live)
 
 <img src="Pics/Success Rates.png" width="1153" height="511">
 
 
 
-### Pivot Table showing outcomes based on launch date
+## Pivot Table showing outcomes based on launch date
 
 <img src="Pics/Monthly Breakdown.png" width="976" height="344">
 
@@ -49,7 +49,7 @@ Initial analysis of the data shows three potential conclusions regarding crowdfu
 
 
 
-## Statistical Analysis breakdown
+### Statistical Analysis breakdown
 
 <img src="Pics/Statistical Analysis.png" width="486" height="340">
 
@@ -64,7 +64,7 @@ Initial analysis of the data shows three potential conclusions regarding crowdfu
 
 
 
-## Potential limitations of this data set
+### Potential limitations of this data set
 
 Potential limitations of the data set may include:
 
@@ -76,7 +76,7 @@ Potential limitations of the data set may include:
 
 
 
-## Future Tables/Graphs that may provide additional insight
+### Future Tables/Graphs that may provide additional insight
 
 
 As this is a preliminary report, additional tables and graphs may be needed to establish a deeper analysis in the future. Future table/graphs to consider include:   
