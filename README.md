@@ -68,8 +68,8 @@ Initial analysis of the data shows three potential conclusions regarding crowdfu
 
 Potential limitations of the dataset may include:
 
-* Bias withing the dataset that may skew the analysis?
-* How might the limited sample size affect the preliminary results?
+* Bias withing the dataset that may skew the analysis.
+* Limited sample size that may affect the preliminary results.
 * Does this data set include outliers that may skew the statistical analysis?
 
 
