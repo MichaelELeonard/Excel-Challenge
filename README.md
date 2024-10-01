@@ -16,19 +16,19 @@ Crowdfunding has transformed and expanded the financial opportunities startup co
 DATA ANAYLSIS INC. has started a small batch data analysis of 1000 crowdfunding campaigns to look for common traits that can lead to the next business success story. Initial analysis has provided to following data: 
 
 
-### Pivot Table filtered by country of origin
+### Campaigns filtered by country of origin
 
 <img src="Pics/Funding Areas.png" width="1137" height="457">
 
 
 
-### Pivot Table of campaign results (successful, failed, or canceled, or are currently live)
+### Campaign results (successful, failed, or canceled, or are currently live)
 
 <img src="Pics/Success Rates.png" width="1153" height="511">
 
 
 
-### Pivot Table showing outcomes based on launch date
+### Campaign outcomes based on launch date
 
 <img src="Pics/Monthly Breakdown.png" width="976" height="344">
 
@@ -43,9 +43,9 @@ Initial analysis of the data shows three potential conclusions regarding crowdfu
 
 * Endeavors that directly engage with their audience are frequently crowdfunded funded at higher levels, leading to an increase in successful outcomes. Examples of these endeavors include Film & Video, Music, and Theater projects.
 
-* Theater projects were funded was significantly higher rates in this data set. As theater, film & video, music projects historically have people gather to experience the product collectively, these patrons may be more inclined to support future crowdsourcing endeavors. 
+* Theater projects were funded was significantly higher rates in this dataset. As theater, film & video, music projects historically have people gather to experience the product collectively, these patrons may be more inclined to support future crowdsourcing endeavors. 
 
-* Crowdsourced projects consistently succeed at a higher rate than they fail within this limited data set. 
+* Crowdsourced projects consistently succeed at a higher rate than they fail within this limited dataset. 
 
 
 
@@ -68,7 +68,7 @@ Initial analysis of the data shows three potential conclusions regarding crowdfu
 
 Potential limitations of the dataset may include:
 
-* Bias withing the data that may skew the data analysis?
+* Bias withing the dataset that may skew the analysis?
 * How might the limited sample size affect the preliminary results?
 * Does this data set include outliers that may skew the statistical analysis?
 
