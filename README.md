@@ -8,8 +8,6 @@ Crowdfunding platforms like Kickstarter and Indiegogo have been growing in popul
 To receive funding, projects must meet or exceed an initial funding target goal, so many organizations dedicate considerable resources to discover “tricks” from past successful campaigns. 
 
 
-<br>
-
 
 ## Data Analysis of Crowdfunding
 
@@ -17,25 +15,23 @@ Crowdfunding has transformed and expanded the financial opportunities startup co
 
 DATA ANAYLSIS INC. has started a small batch data analysis of 1000 crowdfunding campaigns to look for common traits that can lead to the next business success story. Initial analysis has provided to following data: 
 
-<br>
 
 ### Pivot Table filtered by country of origin
 
 <img src="Pics/Funding Areas.png" width="1137" height="457">
 
-<br>
+
 
 ### Pivot Table of campaign results (successful, failed, or canceled, or are currently live)
 
 <img src="Pics/Success Rates.png" width="1153" height="511">
 
-<br>
+
 
 ### Pivot Table showing outcomes based on launch date
 
 <img src="Pics/Monthly Breakdown.png" width="976" height="344">
 
-<br>
 
 
 
@@ -51,7 +47,6 @@ Initial analysis of the data shows three potential conclusions regarding crowdfu
 
 * Crowdsourced projects consistently succeed at a higher rate than they fail within this limited data set. 
 
-<br>
 
 
 ## Statistical Analysis breakdown
@@ -59,7 +54,6 @@ Initial analysis of the data shows three potential conclusions regarding crowdfu
 <img src="Pics/Statistical Analysis.png" width="486" height="340">
 
 
-<br>
 
 
 ### Success/Fail percent rate based on Crowdfunding financial goal received
@@ -69,7 +63,6 @@ Initial analysis of the data shows three potential conclusions regarding crowdfu
 
 
 
-<br>
 
 ## Potential limitations of this data set
 
@@ -80,7 +73,6 @@ Potential limitations of the data set may include:
 * Does this data set include outliers that may skew the statistical analysis?
 
 
-<br>
 
 
 
